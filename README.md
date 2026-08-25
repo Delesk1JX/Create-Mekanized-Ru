@@ -1,4 +1,4 @@
-# Create-Mekanized-Ru
+# Create: Mekanized-Ru
 
 Информация: Перевод квестов и прочего контента в сборке Create: Mekanized. Ссылка на [сборку](https://www.curseforge.com/minecraft/modpacks/create-mekanized)
 
